@@ -1,0 +1,10 @@
+{
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true,
+    "grammarly.selectors": [
+        {
+            "language": "html",
+            "scheme": "file"
+        }
+    ]
+}

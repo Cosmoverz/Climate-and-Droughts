@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&family=Didact+Gothic&family=Gabarito:wght@400;700&family=Quicksand&family=Titan+One&family=Josefin+Sans:wght@600&family=Tilt+Neon&display=swap');
+
+body {
+  background-color: #ffe6c76c !important;
+}
+
+h1 {
+  color: rgba(247, 56, 56, 0.753);
+  font-size: 3rem;
+  font-weight: 700;
+  text-shadow: 0.5cm;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #9D5C0D;
+  font-family: "Balsamiq Sans", cursive;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.75rem;
+  color: rgb(187, 187, 68);
+  font-family: "Gabarito", sans-serif;
+}
+
+h4 {
+  font-size: 1.25rem;
+  color: #f7a76c;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+h5 {
+  color: #b2a4ff;
+  font-family: "Dongle", sans-serif;
+  font-size: 2.5rem !important;
+}
+
+img {
+  border-radius: 15px;
+  width: 15%;
+  float: left;
+  margin-left: 2.5%;
+}
+
+li {
+  color: #404b69;
+  font-family: "Tilt Neon", sans-serif;
+  font-size: 1.15rem;
+  width: 38%;
+}
+
+p {
+  font-family: "Quicksand", sans-serif;
+}
+
+.index-link {
+  -webkit-transition: color 0.65s ease-out;
+  -moz-transition: color 0.65s ease-out;
+  -o-transition: color 0.65s ease-out;
+  -ms-transition: color 0.65s ease-out;
+  transition: color 0.65s ease-out;
+  font-size: 2rem;
+  color: #E5890A !important;
+  text-shadow: 0.5cm;
+  text-decoration: none !important;
+  font-weight: bold;
+}
+
+.index-link:hover {
+  -webkit-transition: color 0.65s ease-out;
+  -moz-transition: color 0.65s ease-out;
+  -o-transition: color 0.65s ease-out;
+  -ms-transition: color   0.65s ease-out;
+  transition: color 0.65s ease-out;
+  color: #E25E3E !important;
+}
+
+.link {
+  -webkit-transition: color 0.65s ease-out;
+  -moz-transition: color 0.65s ease-out;
+  -o-transition: color 0.65s ease-out;
+  -ms-transition: color 0.65s ease-out;
+  transition: color 0.65s ease-out;
+  color: #E5890A !important;
+  text-shadow: 0.5cm;
+  text-decoration: none !important;
+}
+
+.link:hover {
+  -webkit-transition: color 0.65s ease-out;
+  -moz-transition: color 0.65s ease-out;
+  -o-transition: color 0.65s ease-out;
+  -ms-transition: color   0.65s ease-out;
+  transition: color 0.65s ease-out;
+  color: #E25E3E !important;
+}
+
+.intro-text {
+  text-align: center;
+  font-family: "Balsamiq Sans", cursive;
+}
+
+.main-food-desc {
+  padding-left: 18.5%;
+  padding-bottom: 12.5%;
+}
+
+.index-p {
+  width: 62.5%;
+}
+
+.two-title {
+  text-align: center;
+  color: #cae00f !important;
+  font-size: 3em;
+}
+
+.steps {
+  margin-left: 2%;
+}
+
+.picture {
+  float: right;
+  margin-right: 5%;
+  width: 55%;
+}
+
+.navbar-brand {
+  font-family: "Titan One", sans-serif;
+  font-size: 1.5rem !important;
+  color: #34374C !important;
+}
+
+.nav-item {
+  font-family: "Didact Gothic", cursive;
+  font-size: 1.25rem !important;
+  color: #606470;
+}
+
+.navbar {
+  background: transparent;
+  border-radius: 1%/20%;
+  margin: 0.5% 0.5% 0 0.5%;
+  backdrop-filter: blur(3px);
+  position: fixed !important;
+  top: 0;
+  z-index: 1030;
+  width: -webkit-fill-available;
+}
+
+.active {
+  color: #2C2E3E !important;
+}
